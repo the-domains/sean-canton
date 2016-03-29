@@ -4,8 +4,15 @@
         <description><![CDATA[Sean-canton]]></description>
         <link>https://thegrid.ai/sean-canton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 20:14:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sean-canton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tell Congress: It's Time to Move FASTR]]></title>
+            <description><![CDATA[<article><h1>Tell Congress: It's Time to Move FASTR</h1><p>Publicly Funded Research Should Be Publicly Available When you pay for federally funded research, you should be allowed to read it. That's the simple premise of the Fair Access to Science and Technology Research Act ( S.779, H.R.1477), which was just passed out of a major Senate committee.</p><img src="https://www.eff.org/files/2015/10/20/open-share-fastr.png"></article>]]></description>
+            <link>https://www.eff.org/deeplinks/2016/03/tell-congress-its-time-move-fastr</link>
+            <guid isPermaLink="false">86b5b8f3-be65-4375-a08c-d49a67379e4a</guid>
+            <pubDate>Tue, 29 Mar 2016 20:13:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There is no "my" in open source]]></title>
             <description><![CDATA[<article><h1>There is no "my" in open source</h1><p>If you use Node, you've probably been following this week's story between Azer Koçulu, Kik and npm. A brief rundown: Azer made an npm module called "kik", which shares its name with a company. Kik asked him to rename the module, and Azer refused, so npm intervened and reassigned it to Kik.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d079bb2bec8fbef4f9baaf642080e85bd413d792.png"></article>]]></description>
