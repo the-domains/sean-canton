@@ -1,7 +1,7 @@
 name: Sean-canton
 favicon: null
-layout_spectrum: 0.7381952591240406
-typography_spectrum: 0.6764038796536624
+layout_spectrum: 0.50139
+typography_spectrum: 0.16597
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5436640868429095
-  lightness: 0.29287451039999723
+  brandStrength: 0.375
+  lightness: 0.625
   saturation: 0.4503262669313699
   rhythmicContrast: 0.30299242213368416
 purpose: []
