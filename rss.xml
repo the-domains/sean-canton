@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sean-canton]]></title>
         <description><![CDATA[Sean-canton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sean-canton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 19:41:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 20:14:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sean-canton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There is no "my" in open source]]></title>
+            <description><![CDATA[<article><h1>There is no "my" in open source</h1><p>If you use Node, you've probably been following this week's story between Azer Koçulu, Kik and npm. A brief rundown: Azer made an npm module called "kik", which shares its name with a company. Kik asked him to rename the module, and Azer refused, so npm intervened and reassigned it to Kik.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d079bb2bec8fbef4f9baaf642080e85bd413d792.png"></article>]]></description>
+            <link>https://thegrid.ai/sean-canton/there-is-no-my-in-open-source/index.html</link>
+            <guid isPermaLink="false">6434e71b-ec98-4c4f-be7a-4518d46afbbe</guid>
+            <pubDate>Tue, 29 Mar 2016 20:13:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Woah, what is going on here.</p>]]></description>
-            <link>undefinedwoah-what-is-going-on-here/index.html</link>
+            <link>https://thegrid.ai/sean-canton/woah-what-is-going-on-here/index.html</link>
             <guid isPermaLink="false">c7dfaf39-d8ed-43ad-8908-a0ebdaf1f334</guid>
             <pubDate>Tue, 29 Mar 2016 19:41:27 GMT</pubDate>
         </item>
